@@ -1,0 +1,32 @@
+_repo: Compatible_28922
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Richard Rein
+    aliases:
+    - Smith, Richard R. (Richard Rein)
+    - Rein Smith, Richard
+    birthdate: 1930
+    gutenberg_agent_id: '33589'
+    url: http://www.gutenberg.org/2009/agents/33589
+description: There are many ways-murder included-in which husbands can settle certain
+  problems. This was even more drastic!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Medical fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Compatible
+url: http://www.gutenberg.org/ebooks/28922
