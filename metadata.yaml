@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33589
 description: There are many ways-murder included-in which husbands can settle certain
   problems. This was even more drastic!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28922#Compatible
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-05-22'
 gutenberg_type: Text
